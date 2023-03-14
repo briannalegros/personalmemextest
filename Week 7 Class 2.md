@@ -1,0 +1,156 @@
+how business shennanigans gives rise to information theory
+
+- at the end of the 19th century, networks were not a novel idea
+	- the concept wasn't novel
+	- telegraph, rail, gas, water, sewer networks
+	- not electrical networks just yet
+- bell
+	- first company founed in 1875
+	- first telephone exchange operated by western union's telephone subsidery
+	- first woman central office operator: 1878 emma nutt
+	- idea of assigning unique numbers to subscribers suggested in 1879
+	- his vision: https://shawngraham.github.io/hist1900/assets/slides/mar1#/2
+		- he wanted it to become the norm isntead of just pairs
+	- the addition of numbers added a form of automation
+	- 'I would like to say right here... what our experience has been with young ladies' help; the service is very much superior to that of boys and men. They are steadier, do not drink beer and are always on hand'
+- The Strowger automatic exchange - 1892
+  ![](https://shawngraham.github.io/hist1900/assets/slides/572px-Uniselector_Stepper_detail.jpg)
+	- the story goes that a Kansas city undertaker develops the exchange because corrupt telephone operators were directing traffic to his competitors
+		- the wife of his competitor worked in the exchange
+	- western electric buys the rights in 1916
+		- just because a device is invented, doesn;t mean it has any immediate impact
+		- took 20 years for it to take  action
+	- early telephone 'behaviour'
+		- companies not certain that public would accept doing work themselves
+		- bell only starts the automatic exhcanges in 1919
+- the first two decades of telephones was slowly adopting the telephone
+	- wasn't immediate
+	- the quality, they knew the telegraph was more efficient
+	- subject to interference from other electric sources, trolleys, telegraph wires, thunderstorms
+	- economics were beginnuing to change
+		- hubbard initially used a rental model for pairs of phones
+	- when phones were bought individually, you needed capital to maintain the exhcnages
+		- more phones created more value for the user, but more cost to the provider and less profit per new subscriber
+	- all the legal battles over who had precedence, who had the rights, and control and monopoly
+		- hubbard goes to boston for help
+- national bell becomes american bell
+	- hubabrd and bell are out
+	- theodore vail remains
+	- the agreement with western union still in force
+	- vail's stategy was to buy back control of all the little local companies that the previous bell company had licensed out
+	- the idea was that this will enable bell to establish long distance telephone lines
+	- vail broke his agreemnet with the western union
+- 1884 american bell establishes long distance lines between ny and boston
+	- creates a subsidiary company to do this: american telephone and telegraph company
+	- establishes a labratory to improve long distance telephony
+	- telegrpah because when it was incorporated, which had taken a legal statute
+	- the NY legislature understood long distance as quivalent to telegraphy
+	- first project: loading coils
+		- a repeater preservers vibrations and resonance of the original signal
+- 1888 all the court battles around the original patents are won by Bell
+	- bell is making money hand over fist, even though rest of the economy is in depression
+	- too bad the patents just won were about to expire
+	- the patents expired in 1893 and 1894
+		- meaning other telephone companies can set up, design their own equoment borrowing extensively from bell's designs
+	- the long distance play was vail's strategy for coping with the loss of the income that went with controlling patents
+	- despite all this, its commanding lead, its enormous profits, bell's system on extended as far as chicago, elaving the rest of the continent wide open
+- independents appear, bell fights them with both legitimate and spurious court cases
+	- they cut their rates ridiculously where their competion couldn't afford
+	- refused to interconnect with other systems
+	- buys up all the stocks of their competitors
+- close to the next century, almost half of towns with 4000 people had
+	- 2 telephone companies
+	- 2 separate telephone exchanges
+	- often two distinct phones in the home, to cope
+	- photon new york c 1903
+	- class distinction emerging: businesses and wealthy on the bell system had access to the AT&T longlines, while the rest was on the cheaper less connected systems
+	- independents had many fewer subscribers, less well capitalized, comms were bad
+- in europe, 1879 onwards, bell had set up subsidaries along the US model inclduing the pricing
+	- municipal/provincial governments often took them over
+	- resulted in cheaper rates, more rational organization
+	- bell only remains in st petersburg, moscow, warsaw: highest prices in europe
+- paris' system was stae owned
+	- stockholm was a users' coop
+	- 5 times as many phones as were in washington
+- when bell's patent expired, prices did go down in the us
+	- heavily regulated monopolies elesewhere charged nowhere near as much
+	- breaks and accelerators are complex
+- britain messed thing up:
+	- court case found that telephones came under heading of telegraphy, thus subject to the post office
+	- post office then gives out licenses and operates and competitor to its own licensees
+	- they didn't give licenses to run beyond dec 31 1911, thus slowing down telephones until 1920s
+- ![](https://shawngraham.github.io/hist1900/assets/slides/Map-call-telephone-line-details-place-January-25-1915-297627032.jpg)
+	- invention of the vacuum tube used as repeaters permits long lines to the west cost
+	- by 1916 bell had eliminated comeptiton in80% of the market
+	- also owned a significant stake of western union
+	- which raises the specter for bell of aniturst legislations
+	- sherman act was passed in 1890, this tries to counter artificial constraints on supply and trade
+		- this was all the things that bell was infact doing throughout the 1890s to cement its positon as its patent expires
+- vacuum tube
+	- a lightbulb through which a tungsten filament is passed
+	- electric current passes through the tungsten, ehats it up, and emits light
+	- to keep it from burning out, you need to have a vacuum in the bulb or a bovle gas that doens't react
+	- electrons can be emitted by the cathode across the gap, where it can transmit eletricity
+	- you can use this to amplify a signal
+- long distance telephony was central to bell's plan to survive the expiration of its patnets
+	- seemed like they were directing customers to use telegraph services that it owned or had a major stake in
+	- antitrust legislation, populist politicians, interstate commerce commission: AT&T in the crosshairs
+	- an attorney general gasve a warning that further consolidation would be trouble
+	- all phones seemed like they were coming under the control of the govrnment
+	- Vail navigated all this by agreeing that monopolies should be regulated, but government ownership would be unregulated monopoly
+	- they agree to make long distance linges avaialble to smaller local companies to use, and agree to ask permission before acquiring any other companies
+- WW1, AT&T gets nationalise anyways
+	- meant in practice that there was an oversight board created by the government supposedly managed by the post office
+	- first year of nationalization they make 40 million dollars
+	- the rates went up
+	- post ww1, they abandoned nationalisation
+	- 1921 graham act makes the arragement of 1913 a permanent feature of us telecommunications
+	- a curious feature of this arrangement was that the amount of profit AT&T could take was politically related to the amount invested in the system
+		- if it was seen to be improving the infrastrusture of telephony, teh it could earn more
+- this led to bell labs
+	- devoted largely to pure research, as whatever invested there could prvoide cover for costs elesewhere
+	- by ww2 they were worth 5 billion
+	- they wanted to figure out how to pump more signals into the circuits
+	- they could research whatever they wanted to, they had an inhouse jorunal for publishing results
+	- ww2 turn its vast talents to supporting the war effort whle maintaining the research-what-you-want ehtos to an important degree
+- claude shannon
+	- a gradute student of Vannevar Bush's at MIT
+		- working on analog computers to solve differential equations
+		- joins bell labs during ww2 working on fire-control systems
+		- during that time, comes up with information theory
+	- analong computers represent continous quantities of some physical phenomena as a model of the problem to be solved
+	- as an ma student, he pretty much lays the ground work for modern digital thory
+		- demonstrates that boolean algebra can be represented as an electrical circuit
+- Boole
+	- boolean algebra has 2 variables that can be watered down to yes or no
+	- he developed this as a way to ehance artistotle's logical thought and to systematize it
+		- can be expressed as a kind of equation
+- claude shows that electrical ciruits can perform logical operations
+	- which opens the door to machines that can read instructions, perform a computation, and change their own rules based on the results of that computation
+	- a digital computer
+	- he does this before he joins bell labs
+- he comes up with information theory at bell labs
+	- emerges from his work on cryptographic systems, where he also demonstrated an unbreakable system
+	- he writes a mathematical theory of communication which appears in the bell system technical journal
+- redundancy is key to understanding language
+	- many european languages don't rely on tonal differences, so colonizers couldn't recognize what they were hearing
+	- drums pemitted a redundancy that made clear to their meanings
+- bell telephone were trying to quantify dealing with the noisiness of the telephone lines
+	- they found that the fewer symbols or ways of representing the message available for a message, the more of them must be transmitted to get the message across
+	- for telephone engineers, symbols could be the phonemes of language or the ways electrical circuits could be completed/interrupted
+- claude shannon in 1948 took this idea to its logical conclusion and developed a way to think about a message as being composed of two things
+	- content and information
+	- information is a measurement of the redundancy of that content, or how surpring the next letter/sound/wave is
+- shannon entropy
+	- a measure of uncertainty associated with a random variable
+	- used to measure the average amount of information that is needed to identify the value of a random variable
+	- higher entropy = greater amount of uncertainty or unpredicatability
+	- it measures the amount of information that is needed to accurately predict the value of a random variable
+	- a bit was introduced and is fundamental to understanding entropy
+		- a bit is unit of information that has 2 possible states, 0 or 1
+		- they represent the amount of uncertainty or randomness in a system
+		- the more bits of information the more possible outcomes
+- combining information theory (the division of a message from tis meaning) with logical circuits gives us the 20th century
+	- Alan Turing's idea on what can be computable works on representing nerual networks as electrical circuits, the rendering of boolean logic into circuits as well, and much more
+	- enables bell labs to make long distance telephony clearer, more reliable and mroe profitable
+	- 

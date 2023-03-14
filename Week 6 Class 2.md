@@ -1,0 +1,56 @@
+- the necessity of technology speeds it up
+	- everyone fighting to be the first person tominvent something
+- telegraphy begins to diminish as people realize that we can communicate faster
+- breaking forces --> things that make inventions evolve slower
+	- patent fights
+	- chosing to wait until naother technology breaks
+- the brits used morse code for about a year before selling it back to morse because it was "draining their resources"
+- stock market --> they used the morse ticker to beat out their opponents by communicating
+- the morse ticker allowed communication fast around the world
+- mutiple services emerge; multiple lawsuits
+	- henry o'reilly in the western us; secures right to exploit morse patents; morse later regrets this
+	- cooke and wheatstone have american patents prior to morse
+	- alexander bain, 'chemical telegraph' (1843, similar in concept to davy's)
+	- competing services, technologies stringing lines side by side (and between boston and washington, new york and buffalo)
+	- eventually morse is triumphant in the courts
+- extending the wires
+	- all those courts battled; also vandalism, cutting off lines
+		- by 1851 morse triumphant! consolidation of lines in the us
+		- only 3 companies still stnading
+		- by the end of 1860s only western union still standing
+		- >150 absorbed
+		- 37380 miles of cable
+		- 2250 telegraph offices
+- International Telegraphy
+	- 1842, Morse puts an experimental cable across New York Harbour
+	- 1849 William O'Shaughnessy Brooke, in British-controlled India, puts an iron rod beneath/across a river, some 4200 feet & transmits a message
+	- 1852 Frederic Gisborne lays cable between New Brunswick and PEI
+	- 1854 the New York, Nefoundland and London Telegraph Company forms; by 1856 has a cable across the Gulf of St Lawrence
+	- 1858 the Atlantic was crossed
+- they figured out how to put cables under water between ireland and the new york
+	- the cables were really heavy
+	- gouta percha cover
+	- ship sails and the cable unwinds into the water
+	- 2 ships had to be used for the trans atlantic cable because the cable was too long
+	- 300 miles of cable gets lost because it broke and stopped working
+	- they went from the middle and down to new york and ireland
+	- then after a few weeks it fails
+	- edwin whtiehouse fries the whole thing by sending too many volts
+		- he was the scapegoat
+	- reality the technology was not advanced yet
+- they figured out a way to use mirrors to transfer electricity in cables
+- cables have insolation to protect them from grounding
+- individual states begin to realize that control of international communications matters
+- britain especially advantaged: control of gutta pecha, colonies around the world to control start/end of long distant lines
+- 1875 president grant explains why a french cable company was denied permission to land a cable in us: they gotta let us use their cable in return
+- implications for colonialism
+	- takes about 100 days to sail from london to hong kong
+	- marx and engels 1848: 'the need of a constantly expanding market for its products chases the bourgeoisie over the whole surface of the globe. it must nestle everywhere, settle everywhere, establish connections everywhere'
+- guttapercha
+	- tree resin
+	- without it there is no trans atlantic cable
+	- if heated, we can mvoe it into different shapes
+	- basically early plastic
+	- electrically resistant
+	- By early 20th century, there were 200 000 miles of undersea cable; GP about 27 000 tons; that means 88 million trees destroyed
+		- it went extinct
