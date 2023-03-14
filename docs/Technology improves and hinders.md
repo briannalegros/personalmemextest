@@ -1,0 +1,60 @@
+---
+Title: Technology improves and hinders
+date: 2023-03-10
+type: permanent
+project:
+---
+
+tags::  #memex2 #technology #resources 
+projects::[[]]
+
+While technology has improved our lives, it has also destroyed ecosystems during their extraction, ruining the lives of many.
+
+[[@crawford2018AnatomyAISystem]]
+[[Workplaces in smaller countries]]
+[[The impact of Technology]]
+[[Workplaces in smaller countries]]
+[[Is it worth the resources]]
+[[Our role with Technology]]
+[[Access to technology]]
+[[Accessibility for the Blind]]
+[[Advancements in Paper]]
+[[Advancements of Microscopic Cameras]]
+[[Arabic Numerals]]
+[[Automated cash registers]]
+[[Calculation machine]]
+[[Camera's progression]]
+[[Cataloguing as a Portal]]
+[[Digitalization of Knowledge]]
+[[Dry photography]]
+[[Equation solvers]]
+[[Expanding the Accessibility of Knowledge]]
+[[Film no longer used]]
+[[Great technologies of the 1940s]]
+[[Immediately having the pictures results]]
+[[Improving paper]]
+[[Library Access]]
+[[Mailing information]]
+[[Manipulation of data]]
+[[Mass production]]
+[[Our words to Text]]
+[[Passing on Knowledge]]
+[[Preservation of Knowledge]]
+[[Preserving important documents]]
+[[Searching with little effort]]
+[[Selections and findings]]
+[[Specified searching process]]
+[[Technology and Society]]
+[[Technology changing time and space]]
+[[Technology completes tasks more efficiently]]
+[[Technology's Meaning]]
+[[The Complexity of Technology]]
+[[The Digital Age Connections]]
+[[The impact of Technology]]
+[[Efficiency leads to assimilation]]
+[[Getting use to technology]]
+[[Getting Excited with new Technologies]]
+[[Adapting to technology]]
+[[Change in communication]]
+[[Change in perspective of distance]]
+[[Impact of cables]]
