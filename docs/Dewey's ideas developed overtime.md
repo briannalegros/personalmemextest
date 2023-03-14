@@ -31,3 +31,7 @@ This would imply the despite being the one who created the classification system
 [[Seeing social changes within the pages]]
 [[Stories of Knowledge]]
 [[The pages are cultural artifacts]]
+[[The impact of Technology]]
+[[Domino Effect]]
+[[Don't estimate the effort put into the development of new technologies]]
+[[Only the creator not the inspirator]]

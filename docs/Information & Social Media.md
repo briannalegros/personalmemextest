@@ -32,3 +32,4 @@ Can't count how many times I learned of things through social media just casuall
 [[The product of social relations form an image of the importance of society]]
 [[Seeing social changes within the pages]]
 [[The pages are cultural artifacts]]
+[[Failures lead to improvement]]

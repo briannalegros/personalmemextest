@@ -29,3 +29,5 @@ Nice that they've added accessibility for the blind, however considering this wa
 [[Expanding the Accessibility of Knowledge]]
 [[Passing on Knowledge]]
 [[Preservation of Knowledge]]
+[[Our role with Technology]]
+[[Technology improves and hinders]]

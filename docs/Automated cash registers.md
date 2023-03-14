@@ -23,3 +23,4 @@ Today, cash registers are now computers that do all these calculations for us. T
 [[Technology completes tasks more efficiently]]
 [[Equation solvers]]
 [[Our words to Text]]
+[[Technology improves and hinders]]

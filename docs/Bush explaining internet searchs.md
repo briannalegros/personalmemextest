@@ -28,3 +28,8 @@ Here, Bush is explaining what would eventually become searching up information o
 [[Knowledge of Data]]
 [[Search through Truncation]]
 [[Searching with little effort]]
+[[The Cloud]]
+[[Out with the old, in with the new]]
+[[Domino Effect]]
+[[Don't estimate the effort put into the development of new technologies]]
+[[Only the creator not the inspirator]]

@@ -23,3 +23,7 @@ This relates to how history only talks about the achievements of white men. Much
 [[White perspective]]
 [[Stories of Knowledge]]
 [[The pages are cultural artifacts]]
+[[European Countries in power]]
+[[Domino Effect]]
+[[Heroic Struggle]]
+[[Bias towards ourselves]]

@@ -26,3 +26,5 @@ We don't have to develop film anymore, the information gets stored on to an SD c
 [[Great technologies of the 1940s]]
 [[Immediately having the pictures results]]
 [[Technology completes tasks more efficiently]]
+[[Technology improves and hinders]]
+[[Out with the old, in with the new]]

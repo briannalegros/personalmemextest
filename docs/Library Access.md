@@ -32,3 +32,5 @@ It was harder to access and search libraries for the information needed. Many re
 [[Digitalization of Knowledge]]
 [[Passing on Knowledge]]
 [[Preservation of Knowledge]]
+[[Technology improves and hinders]]
+[[The impact of Technology]]

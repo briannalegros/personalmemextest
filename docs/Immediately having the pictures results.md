@@ -27,3 +27,4 @@ These types of cameras continue to exist today, however most don't print the ima
 [[Access to technology]]
 [[Technology completes tasks more efficiently]]
 [[Technology changing time and space]]
+[[Technology improves and hinders]]

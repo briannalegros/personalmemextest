@@ -27,3 +27,5 @@ Today, we have microscopic cameras that allow us to zoom in so far it's amazing,
 [[Film no longer used]]
 [[Immediately having the pictures results]]
 [[Dry photography]]
+[[Technology improves and hinders]]
+[[Don't estimate the effort put into the development of new technologies]]

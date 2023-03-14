@@ -25,3 +25,8 @@ Cameras did indeed become more progressive and easier to use. We can now upload 
 [[Dry photography]]
 [[Film no longer used]]
 [[Immediately having the pictures results]]
+[[Talking Statue]]
+[[Technology improves and hinders]]
+[[Out with the old, in with the new]]
+[[Domino Effect]]
+[[Not looking at the past]]

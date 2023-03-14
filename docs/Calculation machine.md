@@ -24,3 +24,4 @@ Describing what would eventually become calculators. Not only that, computers wo
 [[Manipulation of data]]
 [[Technology changing time and space]]
 [[Technology completes tasks more efficiently]]
+[[Technology improves and hinders]]

@@ -22,3 +22,7 @@ The process of creating papyrus paper is quite meticulous as described in [[@mak
 [[Passing on Knowledge]]
 [[Presentation of the Page]]
 [[Preservation of Knowledge]]
+[[Technology improves and hinders]]
+[[Out with the old, in with the new]]
+[[Domino Effect]]
+[[Don't estimate the effort put into the development of new technologies]]

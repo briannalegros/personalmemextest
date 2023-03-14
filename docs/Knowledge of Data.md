@@ -28,4 +28,4 @@ This is still somewhat true to this day, but more with complex data. The interne
 [[Library and Internet Comparison]]
 [[Manipulation of data]]
 [[Technology and Society]]
-
+[[The Cloud]]

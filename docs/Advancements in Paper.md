@@ -32,3 +32,6 @@ The advancements of technology allowing us to replicate information on to paper 
 [[Origin of paper margins]]
 [[Pages are interfaces]]
 [[Presentation of the Page]]
+[[Technology improves and hinders]]
+[[Out with the old, in with the new]]
+[[Don't estimate the effort put into the development of new technologies]]

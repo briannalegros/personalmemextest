@@ -42,3 +42,7 @@ Part of the memex process. Linking things allow us to intertwine relevant ideas,
 [[Memex codes & Weblinks]]
 [[Storing information with the Memex]]
 [[The Memex storing information]]
+[[The Digital Age Connections]]
+[[Work Fields Coming Together to Create]]
+[[Only the creator not the inspirator]]
+[[Cables changed the world]]

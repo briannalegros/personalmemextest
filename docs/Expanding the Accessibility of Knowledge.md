@@ -25,3 +25,8 @@ This is an interesting way to look at it. Up until now, most communication with 
 [[Passing on Knowledge]]
 [[Preservation of Knowledge]]
 [[Digitalization of Knowledge]]
+[[Our role with Technology]]
+[[Technology improves and hinders]]
+[[The impact of Technology]]
+[[Don't estimate the effort put into the development of new technologies]]
+[[Efficiency leads to assimilation]]

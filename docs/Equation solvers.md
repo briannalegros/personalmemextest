@@ -24,3 +24,5 @@ The computer was initially simply an equation solver, but now can do all sorts o
 [[Calculation machine]]
 [[Technology completes tasks more efficiently]]
 [[Manipulation of data]]
+[[Modern Talking Statue]]
+[[Technology improves and hinders]]

@@ -26,3 +26,5 @@ It's really amazing how much people can find through digging and researching. Th
 [[Who can make Links]]
 [[Information & Social Media]]
 [[The product of social relations form an image of the importance of society]]
+[[Domino Effect]]
+[[Only the creator not the inspirator]]

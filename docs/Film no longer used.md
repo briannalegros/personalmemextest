@@ -25,3 +25,4 @@ We no longer use film, rather a small SD card that stores the photo's informatio
 [[Camera's progression]]
 [[Immediately having the pictures results]]
 [[Technology completes tasks more efficiently]]
+[[Technology improves and hinders]]
