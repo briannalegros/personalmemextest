@@ -1,0 +1,92 @@
+From This to That
+
+- to speak of a 'telephone' in the age of telegraphy was to identify yourself as a huckster, a charlatan, a fraud: no one can transmit voice over a telegraph wire
+	- the 'harmonic telephone'
+- Competences, social necessities, accelerators, and breaks
+	- background stuff (electromagnetism, reasons that people wanted telephones)
+- Dates for the 'invention' of the telephone:
+	- 1840 - Charles Page
+		- magnet close to a wire create music
+	- 1854 - Charles Bourseul
+		- system on paper that speaks and break an electric circuit to transmit sound
+	- 1854 - Antonio Meucci
+		- i already invented bell's stuff but never found the papers
+	- 1857 - Johann Philipp Reis
+		- invents a device that distributes sound over a line
+	- 1864 - Innocenzo Manzetti
+		- "invented the telephone"
+	- 1876 - Bell vs Gray
+		- competing for patents for telephones
+	- 1878 - Cyrille Duquet
+		- figures out how to combine stuff into 1 device
+	- ­1878 - Thomas Edison and Emile Berliner
+		- powdered grains of carbon that transmits a clear sound when under pressure
+	- 1878 - David Edward Hughes
+- any device that could transmit sound were called telephones
+	- the string telephone was called a telegraph??
+- piano wired to a lyre downstairs where if the piano is played the lyre would play on its own
+- page effect
+	- discovered a horseshoe magnet near the lyre would affect it
+	- different strengths would have it play
+	- different vowels were on different wavelengths
+- gram bell
+	- results of such works implied serious financial benefits to exisitng telegraphy
+	- different sounds and signals could be sent down a single wire
+	- more messages on the same physical infrastructure
+	- these devices were called harmonic telephones
+- this misunderstanding kicks off research to our current telephone
+	- string phone, megaphone, speaking tubes, ear trumps, sound resonators, wave theory of electormagnetism
+- M Clarac
+	- french telegraph official
+	- found that tubes with powered carbon could change its electrical resistence under pressure and be regulated through it
+- Lord Kelvin
+	- shown that this resistence to electricity in a wire could be modified by putting the wire under tension
+- bell used a device to record soundwaves to try and use to understand sound better
+- first machinical terf was an automaton playing chess but it was a fraud
+- Bell's early patents positioned his work as a telegraphic device
+	- "Fearing ridicule would be attached to the idea of transmitting vocal sounds telephonically... I said nothing of this plan" - Bell
+- Elisha Gray's early caveats/patents position _his_ work more as a telephone
+- who invented what isn't clear due to the patents, caveats and court cases
+- gray had a better transmitter and bell had a better receiver
+- reis
+	- combined the page effect and the shaking of paper that transmitted sound
+	- sold them not as telephones but as things for labs
+	- he had a patent
+- gray vs bell
+	- reis' device people thought they could use it to pump multiple signals thtough
+	- he modified one for musical scale
+		- sells it to the western union in 1874
+	- in 1876 he takes the device to the Philadelphia Centennial Exhibition where he meets bell
+	- after the exhibition he makes an actual working telephone but does not do the proper paperwork for the patent
+	- bell was using money of a student he was tutoring that he wanted to marry but needed to make money for approval
+	- he filed a patent for a machine that didn't exist yet, which gray was close to putting into the world
+		- bell manages to create the device
+	- in brandord ontario, bell uses liquid mecury part of the transmitter
+		- he spills it on himself and calls for his assistant, which incidentally the assistant hears from the device
+	- they demonstrate it at the philadelphia exhibition and used phrases that the audience already knew
+	- Thomas Edison and Emile Berliner come into play
+		- they work out that a substance under pressure has variable resistance to electricity
+		- they work out how to put the diaphragm above a layer of such materials
+		- this imprints sound waves on to electrical waves
+		- this leads to the creation of microphones
+		- berliner believes edison stole his idea
+		- bell buys the patent from berliner
+		- this leads to court battles between bell devices and edison devices
+- corporations need quick intelligence
+	- they are beginning to work in large buildings where they have to run telegraph lines
+		- the change of the work world has an impact
+- first telephone wire in april 1877
+	- charles williams jr connects his home to his factory in boston
+- new bell company felt that telephones were meant for business and not pleasure
+	- directs their energies at companies and charging more for pairs of phones (they came in pairs)
+- in 1877 there were 778 telephone users, especially stockbrokers
+	- there were twice as many private switchboards as there were bell central exchanges in the 1920s
+- households didn't have telephones until WW2 in the US because it was never seen as important or knew what they were about
+- Vail gets brought into the bell company
+	- gets into a lot of shady business practices that acted against edison
+	- this slowed edison (western union group) down and allows bell to improve his device
+	- a truth is settled and telegraphs end up being used along a large distance and telephones over a short distance
+	- bell ends up buying all of the western union's telephone business and pays 20% off those telephone business rentals to WU for 15 years
+- once telephone exhanges were invented, companies tried to limit the bandwidth to cram more signals onto the wires
+- the introduction of telephones reuqired new architecture that allowed the wires to traverse cities
+- 
