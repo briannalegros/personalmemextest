@@ -1,0 +1,147 @@
+- larry page's dissertation project on maths of the web (google)
+	- web as a structured graph in 1996
+- inspired by citation in academic literature points backwords and gives a sense of what's improtant
+- brin writes the webcrawler to put page's idea in motion
+	- analyzing results they came up with page Rank
+	- realized they would give more useful results than basic lists
+- originally against advertising, but changed when they got the company running
+	- formally incorporated in 1998
+- by 1999 indexes 60mil pages
+	- got some positive coverage
+	- tried to sell it to excite.com for 1mil
+		- then changed it to 750k but they sitll declined
+- 2000 starts selling advertising against results
+	- price is bid + per-click rate
+	- immediate lawsuit
+	- advertising company called goto.com sues for patent infringement
+	- settled out of court for a perpetual license in return for stock
+- 2001 page screws up enough as a ceo that shareholders get ERic Schmidt brought in as parentak supervision
+- 2003 yahoo tries to buy for 3bil
+- 2004 has its IP
+	- yahoo quits the partnership with its own search engine
+- 2005 valued at 52bil
+- 2008 click fraud a big problem for them
+	- they start using cookies to track people
+	- kept this info seperate from other services until 2016 so now you are personally identifiable by your browsing to google
+- 2010 google buys other services or launches a similar service or kills services off
+	- getting in hot water for toxic workplace or for being involved in seriously dodgy surveillance projects
+	- many antitrust violations being investigated by 2019 for abuse of monopoly position in search and advertising
+- John Thompson: “mass communication” -> “the institutionalized production and generalized diffusion of symbolic goods via the transmission and storage of information/communication." - 1990
+	- search engines can fit in but also don't fit in
+	- what does this mean?
+- they create a lens where we view the internet through it
+- search engines don't access the whole web, they filter webpages in a way
+- John Thompson: “mass communication” -> “the institutionalized production and generalized diffusion of symbolic goods via the transmission and storage of information/communication."
+- ![](https://shawngraham.github.io/hist1900/assets/slides/linked.jpg)
+	- this book helped influence networks we have today
+	- recounts how his team mapped the web's structure to reveal disturbing evidence about the supposed egalitarianism of the network
+	- found small number of apges which were named hubs, that are linked by a great many of other pages
+		- very easy to come across on the web
+	- some other documents are barely linked by other pages
+- previous platforms with publishing features had to deal with the scarcity in the sense of spectrum
+	- channels where they can deliver the goods
+- internet sites have a to deal with attention scarcity
+	- we used to rely on tv and radios to act as intermediaries between consumer and material
+	- we rely on search engines now
+		- we don't use them the same way anymore
+	- can we trust them to deliver what we wnat to find?
+- early google depended on webcrawlers to travel the links on webpages
+	- they used to use other signals to figure out if the site was valuable
+		- the key was pagerank
+		- the weighted count of links pointing to it
+		- if some links came from a high pagerank documents, they would be counter higher (popularity contest)
+		- basically they pushed the more popular ones rather than credible ones (granted popular ones can be credible too)
+		- made it so smaller pages were harder to find
+- early writing about google framed it as a democracy
+	- hyperlinks as a vote (because depending on how many people went there the more it would be pushed)
+	- real democracy we don't have the tyranny of the majority
+	- many argued that pagerank didn't surface material but rather replicated existing biases
+	- "The problem is this: a well-linked page appears prominently on search engines like Google; this page therefore enjoys greater traffic; and, as users become even more aware of the site, they link to it on their own pages, increasing the document’s PageRank and visibility even further."
+- "The goals of the advertising business model do not always correspond to providing quality search to users. For example, in our prototype search engine one of the top results for cel- lular phone is ... a study which explains [the] risk associated with conversing on a cell phone while driving ... It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page ... For this type of reason and historical experience with other search engines we ... expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers. ... Since it is very difficult even for experts to evaluate search engines, search engine bias is particularly insidious ... [and] less blatant bias are likely to be tolerated by the market." (Brin and Page 1998: 17–18)
+	- google was written when page banners were dominant advertising, but people would click away before they could load or learned to not actually see them
+	- solution was paid placements
+		- putting links in search resullts
+		- they use to make it clear where the results were organic vs paid
+		- google took fees to enhance palcements
+		- now it puts the paid ones right in the most valuable real estate (at the top)
+		- in old media, ads looked and acted fifferently than the actual content, not so much here
+			- mobile ads still act differently than their actual games though
+- As users engage with technologies like search engines, they dynamically co-construct content with the technology itself' - Safiya Noble
+	- people tend to believe tech is neutral
+	- google had that same hype cycle going for it as did the other companies we've looked at, along with a snappy slogan 'don't be evil'
+	- structurally, and algorithmically it pushes towards the status quo
+	- results in a tendency for people to accept what they find as 'truth'
+	- she studied google from a perspective based in black intersectional feminism
+		- the way different identities intersect particularly online
+	- demonstrated that the basic design reinforces and supercharges existing prejudices and currents privileging whiteness
+	- she searched white girls vs black girls finding nothing but racialized pronography for the latter
+	- In 2011, she writes, 'search results also vary depending on whether filters to screen out pornography are enabled on computers. Information that surfaces to the top of the search pile is not exactly the same for every user in every location, and a variety of commercial advertising, political, social, and economic decisions are linked to the way search results are coded and displayed. At the same time, results are generally quite similar, and complete search personalization—customized to very specific identities, wants and desires—had yet to be developed in 2011. Personal-identity personalization has less impact on a variation in results than generally believed by the public'
+- in 2007 a company called metaweb launched a prject by the name of freebase
+	- open database that expressed data not in relational data but as a graph
+		- triples
+	- you don't need a schema beforehand and each part can be an address on the web
+		- sources for every statement
+	- instead of keyword searches, use the power of network analysis to use the graph to find answers
+	- users could submit wiki type contributions
+	- pruchased by google in 2010
+		- they incorporate with things they know
+		- announces the knowledge graph in 2012
+		- starts with info boxes that pop up when you do google search with instant answers
+		- often drew from wikipedia's material without attribution
+		- reduced the use of wikipedia, affecting tis fundraising and participation of new users
+		- also drew info from sites that otherwise ranked highly in search
+- Aaron Swartz
+	- helped invent RSS _when he was 14_
+	- helped set up Creative Commons _when he was 15_
+	- ­developed Markdown
+	- one of the developers of Reddit
+	- founder of demand progress
+		- very active campaiging against bills that sought to expand copyright in ways that would criminalize the ways people treat their own digital data
+	- promoted net neutrality
+		- idea that all traffic should be carried regardless of origin or purpose
+	- fought against stop online piracy act
+		- because of the design, would've made it easy for the government to shutdown websites accused of copyright violation
+	- 2008 he downloaded 2.7mil federal court docs (you use to have to pay for the material)
+		- FBI investigated, decided not to prosecute because the docs were public in the first place
+	- whole bunch of lawyers and judges got in trouble because they haven't been handling confidentiality properly in many court docs in the first place
+	- 2011
+		- believed that research already paid for by the public should be free
+		- he set up a laptop in a close at MIT and started downloading academic articles from JSTOR which he then intended to release
+	- prosecutors charged him with 2 counts of wire fraud and 11 violations of the computer fraud and abuse act
+	- 1mil in fines, 35 years in prison, asset forfeiture
+		- offered a plea bargain for 6 months but he'd have to plea guilty
+			- counter offer got rejected
+	- 2 days after he took his own life, they dropped all the charges
+	- despite MITs public support for open access culture, they never supported him
+	- after his death, jstor announced they'd make 'more than 4.5 mil articles' available for free
+- enshittification (Cory Doctorow)
+	- _Here is how platforms die: First, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die._
+	- amazon
+		- bruns through VC cash
+		- sells goods and sells below cost
+		- website clean and takes you to what you're after
+		- they get big fast and kills off a lot of brick and mortar shops
+		- sells ebooks and audiobooks locked with DRM
+			- you have to say goodbye to the money you spent if you tried to move platform
+		- prime means free shipping
+		- sets up a marketplace for businesses, subsidized their costs
+		- forbids sellers from selling elsewhere
+		- if you want to buy online, its hard to look elsewhere except amazon
+		- pumps up the fees to marketplace sellers, forcing them to cough up to be at the top of our searches
+		- profits to shareholders
+		- Doctorow: 'This is enshittification: Surpluses are first directed to users; then, once they're locked in, surpluses go to suppliers; then once _they're_ locked in, the surplus is handed to shareholders and the platform becomes a useless pile of shit. From mobile app stores to Steam, from Facebook to Twitter, this is the enshittification lifecycle.'
+	- Zuckerberg
+		- first site meant to creep on women students
+			- invaded privacy, violated copyright, breach of security
+		- early fb showed posts from family and friends
+		- join so they can see your posts, you can't switch now because the costs are high
+		- start shoving posts into your feed from accounts you don't follow
+			- started with media companies
+		- chocked off the ability for media company to post an excerpt
+			- had to post the full text
+		- readers don't go to the publications, so they're now dependent of FB
+		- wouldn't show the publications they signed up to follow unless they paid FB ransom to boost their articles
+		- same thing to sellers
+		- illegal agreement with google where fb would get an illegal advantage in ad auction in exchange for fb canning its own service
+	- Doctorow: "The end-to-end principle: the idea that networks should be designed so that willing speakers' messages would be delivered to willing listeners' end-points as quickly and reliably as they could be. That is, irrespective of whether a network operator could make money by sending you the data _it_ wanted to receive, its duty would be to provide you with the data _you_ wanted to see."
+	- 

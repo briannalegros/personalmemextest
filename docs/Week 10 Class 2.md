@@ -1,0 +1,132 @@
+Sliding into hypertext and the web
+
+- 1983 - ARPANET switches over to TC/ICP; MILNET splits off
+- 1983 Domain names system devised
+- 1984 comes into effect: gov, .mil, .edu, .org, .net, and .com
+- 1986 NSF backbone is built; NSF, like DCA before it, limites use to 'approved' use
+	- also decides to use TC/ICP
+- 1987 over 10000 hosts now on the internet
+- 1988 commercial email allowed to be transported over NSFNet - commercialization of that infrastructure begins
+-   Senator Al Gore becomes interested in networks for research
+-   1990 ARPANet shuts down
+-   1991 Gore proposes, and sees it through, The High Performance Computing Act. This is the 'information superhighway' financing bill, which amongst other things funds the team that builds the first Webrowser (Mosaic, 1993; evolves into Netscape)
+-   1991 web comes into existence; 1993 explodes into popular imagination
+- an automaton examines its own state then selects an action based on the state
+	- this work, von Neumann describes the recipe for how programs may reproduce itself
+	- makes abiological comparison
+- first virus written as experiments
+	- Creeper - designed by Bob Thomas at BBN; it would copy itself onto connected computers. the first worm. 1971. 'I'M THE CREEPER CATCH ME IF YOU CAN'
+	- Reaper - designed by Ray Tomlison, to seek out and eliminate Creeper. 1972
+	- requires a host program to move around
+	- executes itself before the host program does anything
+	- worms: self sufficient program on its own
+	- creeper wasn't malicious, more a i wonder if this will work
+	- copied itself to another machine and delete itself on the old
+	- Alan Davis grad student at uiuc made a process for a PDP-11 computer to see if a copy of it was running, if not it would copy and start it, then see if space was available and if so it would make a file to fill that space, then repeat the process
+		- if someone wanted to save something there'd be no space, and if they deleted it it would fill back up
+- ANIMAL - the first Trojan - 1975, by John Walker
+	-  ANIMAL was a 20-questions style game, 'what animal am I thinking of?'
+	- secret program included in it called PERVADE; when game ran, PERVADE would examine the system for directories available to the user, and then copy ANIMAL to those directories 
+- Basit and Amjad Farooq Alvi
+	- made software for the Apple IIe for heart monitoring
+	- this software was being pirated, so they made a virus to find illegal copying
+	- there was a message that provided their contact details
+	- if you paid for the software, the virus would be remvoed
+- The Morris Worm - 1988
+	- within 24 hours approximately 1/10th of connected machines (~ 6000) infected
+	- November 2, 1988, 8.30 pm, a program starts spreading; emerges first at MIT
+	- exploited loopholes in the code in email systems
+		- the finger command and other routes
+	- designed to hide
+	- targets a particular flavour of the widespread unix operating system
+	- computers slow, emails delayed, no files were destroyed but it was expensive
+	- the programmer released it on accident
+		- he contacted friends asking them to post anonymous messages around the web on how to delete it, but it was too late
+		- one friend made a call to the NY times with the warning
+			- said it was a harmless experiment; but they referred to the programmer by their initial which made it easy to find him
+		- programming world was small, his name was Robert Tappan Morris at Cornell U. 23 years old
+		- FBI arrests him under the Computer FRaud and Abuse act
+			- found guilty in 1989, fined, probabition, 400 hours of community service
+		- this prompts the beginning of cybersecurity work
+- The story so far
+	- the 1980s sees a growing awareness of 'connected' computing
+	- turning up in culture (eg WarGames; Terminator)
+	- commercialization of the government created infrastructure
+	- internetworking of private networks into that infrastructure
+	- common carriage of traffic (what is later called net neutrality) a feature
+	- Al Gore secures funding for another round of development, meant to expand access and foster more research
+- Jorge Luis Borges, Garden Of Forking Paths (spanish, 1941; English, 1948)
+	- "This web of time - the strands of which approach one another, bifurcate, intersect or ignore each other through the centureis - embraces every possibility"
+- In computerized hypertext
+	- some act of selection enables you to pass to another level or another related concept
+	- a formalization and action based on a _relationship_
+	- the relationship itself has some capacity to _act_
+- Ted Nelson, Xanadu
+	- coins the word hypertext
+	- never built it
+	- philosopher, entrepreneur, professor, consultant, administrator
+	- was friends with douglas engelbart
+	- maggie appleton: 'Our preconceived notions of what a link is, how it works, and what digital text is capable of threatens to overwrite the alternate history we're about to explore'
+	- while it was never built, it was influential in that its patterns for dealing with these issues influence subsequent designs, like the memex
+	- he provides a template for channeling the imagination in the context of these increasingly more powerful machines
+	- some patterns:
+		- jump links versus visible links
+		- parallel documents
+		- transclusion
+		- stable addresses for blocks of text
+		- annotation overlays
+		- multiple view
+		- micropayment
+- pattern language as maggie appleton asks
+	- How do we structure information and build relationships between pieces of data that help us see them across contexts, and clarify understanding?
+	- How do we build systems that allow people to collaborate on shared documents without losing authorship? How do we credit and compensate authors based on their contributions?
+	- How do we bring ideas and data from a variety of sources into conversation with our own, while leaving a clear trail back to the origin?
+- Nelson: "HTML is precisely what we were trying to PREVENT— ever-breaking links, links going outward only, quotes you can't follow to their origins, no version management, no rights management."
+- "What we're now seeing is the ad-hoc, decentralised manifestation of Xanadu in bits and pieces.
+  People are building Xanadu without knowing what Xanadu is.
+  Which is the essence of a good pattern language; true patterns evolve naturally within systems, and are found rather than crafted." - Maggie Appleton
+	- links to documents, jumps to related documents in FRESS
+		- used to teach poetry
+	- HES had a back button
+		- nasa HES to document apollo missions
+- Microcosm
+	- 1986 BBC produces a new Domesday Book on laser disc
+	- interactive explorations, with links & a pointer
+	- inspiration for Wendy Hall, U Southampton
+	- domes day discs had crowdsourced memories and stories, pictures and vidoes, tremenedous multimedia
+	- southampton CS dept was not interested in her work on multimedia, so she goes to u of michigan and discovers this is called hypermedia
+	- eventually returns to southampton in time for the donation of mountbatten's papers
+	- archive had film, photo, sound, no linear sequence of the material, archivists didn't know how to archive it
+	- 1989 they had a hypermedia system running that interwove the materials in the archive: multimedia navigation, database of links that was connected, used metadata about the links to create new info
+	- the links weren't in the doc but in the linkbase and it overlaid all of the material
+	- a link could point to multiple places at once and new links vcould be created whenever
+- Intermedia - connected five different applications into a 'scholar's workstation' Nicole Yankelovich, Nancy Garrett, Karen Caitlin; Apple nicks elements of the design
+	- Sun Microsystems - Link Service, developed by Amy Pearl
+	- Symbolics - Symbolics Document Examiner by Janet Walker
+	- hypermedia was a new field
+	- new systems developed in the 80s had a lot of women involved
+	- Evans, discussing how Marshall argues that the process of writing - making notes - involves throwing things out as your ideas change: Evans argues hypermedia is 'software for changing your mind'
+- -Xerox - Cathy Marshall, works on NoteCards, subsequently develops Aquanet and Viki - 1984
+	- a very similar product becomes bundled with Apple in 1987, 'HyperCard', 1987
+	- she comes up witha system that imagine sinfo on notecard with hypertextual linking
+	- card could be chained together into sequences, mind maps, collection
+	- part writing tool part info browser
+	- called it idea browser
+	- designed for intelligence analysis
+		- they never used it, used through PARC instead
+- "HyperText is a way to link and access information of various kinds as a web of nodes in which the user can browse at will. It provides a single user-interface to large classes of information (reports, notes, data-bases, computer documentation and on-line help). We propose a simple scheme incorporating servers already available at CERN... A program which provides access to the hypertext world we call a browser... " Tim Berners-Lee , R. Cailliau. 12 November 1990, CERN
+	- proses it in 1989, and gets the system working by the end of 1990
+	- software made available to other research insitutions in jan 1991 and the general public in august
+	- his paper gets rejected, but gets into the demo session showing it off
+	- system developed to help manage info management at the CERN campus
+	- looks a bit like NotCards, the pages are connected by links
+	- main difference to most hypertext systems of the day, pages could be distributed on different computers, the links were one way
+	- they make their system work with the academic internet rather than a single machine or LAN
+	- his vision of hypertext features one-way links only
+		- he figured the document would be the atomic unit of thought, hence urls point to _pages_
+	- since the links are not bidirectional, so link rot and decay ais inevitable
+	- hypertext attendees weren't impressed, so he was ignored
+	- the requirement of internet connection was costly and the hypertext as implemented was not even as sophisticated as engelbart's original demo
+- Clare Evans: "Today, we mostly think of hypertext as being something related to the Web, rather than of the Web as a technically inferior manifestation of hypertext principles"
+	- people forgot the work done by people like cathy marshall because people wanted minimalization
+- Hypermedia: constructive; to navigate it was to also forge the links that made things meaningful Web: passive; to navigate it is to go where the paths have been made for you
